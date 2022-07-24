@@ -225,3 +225,8 @@
 ::-webkit-scrollbar-thumb {
   @apply bg-gray-500 dark:bg-green-400;
 }
+
+
+.test{
+  padding:0;
+}
